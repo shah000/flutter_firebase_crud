@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "205836366379",
+    "project_id": "curd-flutter-7a851",
+    "storage_bucket": "curd-flutter-7a851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205836366379:android:feb884affe7e740683306e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205836366379-i3ucsggbcv829kh9atife6jhl2p6ngu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "327feb1b0f7ea34012b164154724d02b6f481738"
+          }
+        },
+        {
+          "client_id": "205836366379-69rnde5kfa3lvul3cjlunqfcs5uq2rp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyea3vSTWvb9Yzqv3obBTfL6_BAlzRwYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205836366379-69rnde5kfa3lvul3cjlunqfcs5uq2rp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
